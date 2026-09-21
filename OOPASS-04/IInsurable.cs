@@ -1,4 +1,6 @@
-﻿public interface IInsurable
-{
-    decimal CalculateInsurance();
-}
+﻿
+////Q5
+//public interface IInsurable
+//{
+//    decimal CalculateInsurance();
+//}
