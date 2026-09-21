@@ -1,7 +1,7 @@
 ﻿
-////Q4  PRACT
+//Q4  PRACT
 
-//public interface ITrackable
-//{
-//    string GetTrackingStatus();
-//}
+public interface ITrackable
+{
+    string GetTrackingStatus();
+}
